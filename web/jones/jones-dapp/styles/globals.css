@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.chart-bg {
+  background-image: url("/backgrounds/chart-card-bg.svg");
+  background-size: cover;
+  background-position-x: right;
+}
+
+.total-raised-bg {
+  background-image: url("/backgrounds/total-raised-card-bg.svg");
+  background-size: cover;
+  background-position-x: left;
+}

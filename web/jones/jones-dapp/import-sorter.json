@@ -1,0 +1,43 @@
+{
+  "generalConfiguration": {
+    "sortOnBeforeSave": false
+  },
+  "importStringConfiguration": {
+    "maximumNumberOfImportExpressionsPerLine": {
+      "count": 9999
+    },
+    "quoteMark": "double"
+  },
+  "sortConfiguration": {
+    "customOrderingRules": {
+      "defaultNumberOfEmptyLinesAfterGroup": 1,
+      "defaultOrderLevel": 50,
+      "rules": [
+        {
+          "type": "path",
+          "regex": "^react$",
+          "orderLevel": 10
+        },
+        {
+          "type": "path",
+          "regex": "react|^@|^web3|lodash|recharts|clsx|axios|next|immer|zustand|ethers",
+          "orderLevel": 20
+        },
+        {
+          "type": "path",
+          "regex": "common|store|context",
+          "orderLevel": 30
+        },
+        {
+          "type": "path",
+          "regex": "common/components",
+          "orderLevel": 40
+        },
+        {
+          "regex": "(src/*|./*)",
+          "orderLevel": 50
+        }
+      ]
+    }
+  }
+}

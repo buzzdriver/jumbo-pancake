@@ -1,0 +1,75 @@
+{
+  "farms": [
+    {
+      "farmName": "JONES",
+      "poolId": "0",
+      "deprecatedFarmAddress": "0xf1a26Cf6309a59794da29B5b2E6fABD3070d470f",
+      "isSingleStaking": true,
+      "lpToken": "0x10393c20975cF177a3513071bC110f7962CD67da",
+      "buyUrl": "https://app.sushi.com/swap?inputCurrency=ETH&outputCurrency=0x10393c20975cF177a3513071bC110f7962CD67da",
+      "totalStaked": 1785093.2223830477,
+      "totalStakedValue": 1504737.1914349005,
+      "apr": 12.572623088243448,
+      "deprecatedFarmTotalStakedValue": 125078.48916399856
+    },
+    {
+      "farmName": "JONES-ETH",
+      "poolId": "1",
+      "deprecatedFarmAddress": "0x360a766F30F0Ba57d2865eFb32502FB800b14dD3",
+      "isSingleStaking": false,
+      "lpToken": "0xe8EE01aE5959D3231506FcDeF2d5F3E85987a39c",
+      "buyUrl": "https://app.sushi.com/add/0x10393c20975cF177a3513071bC110f7962CD67da/ETH",
+      "totalStaked": 11800.349175096964,
+      "totalStakedValue": 790157.8894473335,
+      "apr": 30.783439300439436,
+      "deprecatedFarmTotalStakedValue": 51072.00190206529
+    },
+    {
+      "farmName": "jETH-ETH",
+      "poolId": "2",
+      "deprecatedFarmAddress": "0xBAc58e8b57935A0B60D5Cb4cd9F6C21049595F04",
+      "isSingleStaking": false,
+      "lpToken": "0xDF1A6Dd4E5b77d7F2143eD73074bE26c806754c5",
+      "buyUrl": "https://app.sushi.com/add/0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3/ETH",
+      "totalStaked": 758.1781442813228,
+      "totalStakedValue": 1676744.3670292157,
+      "apr": 6.447355934606951,
+      "deprecatedFarmTotalStakedValue": 37091.45966998047
+    },
+    {
+      "farmName": "jgOHM-gOHM",
+      "poolId": "3",
+      "deprecatedFarmAddress": "0x7eCe38dBE9D61D0d9Bf2D804A87A7d21b5937a56",
+      "isSingleStaking": false,
+      "lpToken": "0x292d1587a6Bb37E34574c9AD5993F221D8a5616C",
+      "buyUrl": "https://app.sushi.com/add/0x5375616bB6c52A90439fF96882a986d8FCdCe421/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
+      "totalStaked": 174.71958112582573,
+      "totalStakedValue": 741763.4120939947,
+      "apr": 1.8217681624162356,
+      "deprecatedFarmTotalStakedValue": 197895.00992299145
+    },
+    {
+      "farmName": "jDPX-DPX",
+      "poolId": "4",
+      "deprecatedFarmAddress": "0x5723be83199C9Ec68ED0Ac979e98381224870e7f",
+      "isSingleStaking": false,
+      "lpToken": "0xEeB24360C8C7A87933d16B0075E10E1a30Ad65B7",
+      "buyUrl": "https://app.sushi.com/add/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19",
+      "totalStaked": 852.2440304503621,
+      "totalStakedValue": 242863.48480926108,
+      "apr": 25.038528791873148,
+      "deprecatedFarmTotalStakedValue": 1130.0974186415358
+    },
+    {
+      "farmName": "jRDPX-RDPX",
+      "poolId": "5",
+      "isSingleStaking": false,
+      "lpToken": "0x110a0f39b15D04f2F348B61Bd741429C7d188d3F",
+      "buyUrl": "https://app.sushi.com/add/0x1f6Fa7A58701b3773b08a1a16D06b656B0eCcb23/0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+      "totalStaked": 10772.137690868309,
+      "totalStakedValue": 244008.0327488035,
+      "apr": 24.92108267251767,
+      "deprecatedFarmTotalStakedValue": 0
+    }
+  ]
+}

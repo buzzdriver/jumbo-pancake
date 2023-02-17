@@ -1,0 +1,59 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 649 145.6939">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-234.5703" y1="-880.4789" x2="-234.5703" y2="-686.2698" gradientTransform="matrix(1, 0, 0, -1, 287, -712)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4fce0d"/>
+      <stop offset="1" stop-color="#4fea0d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-281.8164" y1="-880.4789" x2="-281.8164" y2="-686.2698" gradientTransform="matrix(1, 0, 0, -1, 287, -712)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4fce0d"/>
+      <stop offset="1" stop-color="#4fce0d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-241.0555" y1="-2298.8169" x2="-241.0555" y2="-537.3369" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="-218.4143" y1="-2251.4569" x2="-218.4143" y2="-489.986" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="-218.4087" y1="-6488.5969" x2="-218.4087" y2="46.5378" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-6" x1="-249.1392" y1="-4277.0168" x2="-249.1392" y2="-167.55" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-7" x1="-274.9201" y1="-4302.7869" x2="-274.9201" y2="-193.3259" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-8" x1="-202.2528" y1="-6458.4768" x2="-202.2528" y2="41.7019" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-9" x1="-155.0125" y1="-10097.3069" x2="-155.0125" y2="663.823" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-10" x1="-195.7731" y1="-2298.8169" x2="-195.7731" y2="-537.3369" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-11" x1="-218.4087" y1="-4509.2568" x2="-218.4087" y2="-199.7568" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-12" x1="-218.4142" y1="-9187.5168" x2="-218.4142" y2="550.1228" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-13" x1="-265.8317" y1="-7171.4871" x2="-265.8317" y2="175.4373" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-14" x1="-170.997" y1="-7171.4871" x2="-170.997" y2="175.4373" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-15" x1="-218.4143" y1="-9014.4465" x2="-218.4143" y2="453.2527" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-16" x1="-187.684" y1="-4277.0168" x2="-187.684" y2="-167.55" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-17" x1="-161.9085" y1="-4302.7869" x2="-161.9085" y2="-193.3259" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g>
+    <g id="logoMark">
+      <polygon id="logoMark_PathItem_" data-name="logoMark &lt;PathItem&gt;" points="47.246 117.852 47.246 145.694 57.613 145.694 57.613 107.487 47.28 117.806 47.246 117.852" style="fill: url(#linear-gradient)"/>
+      <polygon id="logoMark_PathItem_2" data-name="logoMark &lt;PathItem&gt;" points="0 60.25 0 102.772 10.139 112.909 10.367 113.137 10.367 49.885 0.034 60.216 0 60.25" style="fill: url(#linear-gradient-2)"/>
+      <polygon id="logoMark_PathItem_3" data-name="logoMark &lt;PathItem&gt;" points="40.647 69.063 51.242 69.063 61.381 58.937 61.609 58.709 30.279 58.709 40.612 69.029 40.647 69.063" style="fill: url(#linear-gradient-3)"/>
+      <polygon id="logoMark_PathItem_4" data-name="logoMark &lt;PathItem&gt;" points="47.532 11.358 37.393 21.495 37.164 21.712 100.007 21.712 89.685 11.393 89.64 11.358 47.532 11.358" style="fill: url(#linear-gradient-4)"/>
+      <rect id="logoMark_PathItem_5" data-name="logoMark &lt;PathItem&gt;" x="63.2307" y="107.2809" width="10.7212" height="38.413" style="fill: url(#linear-gradient-5)"/>
+      <polygon id="logoMark_PathItem_6" data-name="logoMark &lt;PathItem&gt;" points="49.941 0 35.28 0 25.815 9.463 25.781 9.498 25.781 24.155 49.712 0.228 49.941 0" style="fill: url(#linear-gradient-6)"/>
+      <polygon id="logoMark_PathItem_7" data-name="logoMark &lt;PathItem&gt;" points="24.16 25.776 9.499 25.776 0.034 35.228 0 35.273 0 49.931 23.931 26.004 24.16 25.776" style="fill: url(#linear-gradient-7)"/>
+      <polygon id="logoMark_PathItem_8" data-name="logoMark &lt;PathItem&gt;" points="79.569 107.487 79.569 145.694 89.925 145.694 89.925 117.852 79.786 107.715 79.569 107.487" style="fill: url(#linear-gradient-8)"/>
+      <polygon id="logoMark_PathItem_9" data-name="logoMark &lt;PathItem&gt;" points="126.804 49.885 126.804 113.137 137.137 102.818 137.171 102.772 137.171 60.25 127.032 50.113 126.804 49.885" style="fill: url(#linear-gradient-9)"/>
+      <polygon id="logoMark_PathItem_10" data-name="logoMark &lt;PathItem&gt;" points="85.895 69.029 85.929 69.063 96.524 69.063 106.663 58.937 106.892 58.709 75.562 58.709 85.895 69.029" style="fill: url(#linear-gradient-10)"/>
+      <rect id="logoMark_PathItem_11" data-name="logoMark &lt;PathItem&gt;" x="63.2307" y="58.709" width="10.7212" height="25.3306" style="fill: url(#linear-gradient-11)"/>
+      <polygon id="logoMark_PathItem_12" data-name="logoMark &lt;PathItem&gt;" points="106.275 27.99 30.896 27.99 16.019 42.853 15.985 42.899 15.985 74.862 26.124 84.999 26.352 85.227 26.352 47.191 35.189 38.356 101.982 38.356 110.819 47.191 110.819 85.227 121.152 74.907 121.187 74.862 121.187 42.899 106.321 28.025 106.275 27.99" style="fill: url(#linear-gradient-12)"/>
+      <polygon id="logoMark_PathItem_13" data-name="logoMark &lt;PathItem&gt;" points="15.985 96.288 15.985 118.754 26.124 128.891 26.352 129.119 26.352 85.935 16.019 96.254 15.985 96.288" style="fill: url(#linear-gradient-13)"/>
+      <polygon id="logoMark_PathItem_14" data-name="logoMark &lt;PathItem&gt;" points="110.819 85.935 110.819 129.119 121.152 118.799 121.187 118.754 121.187 96.288 111.048 86.152 110.819 85.935" style="fill: url(#linear-gradient-14)"/>
+      <polygon id="logoMark_PathItem_15" data-name="logoMark &lt;PathItem&gt;" points="84.33 89.097 52.841 89.097 31.65 110.284 31.615 110.318 31.615 134.381 41.754 144.518 41.983 144.746 41.983 114.61 57.134 99.462 80.037 99.462 95.189 114.61 95.189 144.746 105.522 134.427 105.556 134.381 105.556 110.318 84.376 89.131 84.33 89.097" style="fill: url(#linear-gradient-15)"/>
+      <polygon id="logoMark_PathItem_16" data-name="logoMark &lt;PathItem&gt;" points="111.39 24.155 111.39 9.498 101.936 0.034 101.902 0 87.242 0 111.162 23.927 111.39 24.155" style="fill: url(#linear-gradient-16)"/>
+      <polygon id="logoMark_PathItem_17" data-name="logoMark &lt;PathItem&gt;" points="127.717 25.81 127.672 25.776 113.012 25.776 136.943 49.702 137.171 49.931 137.171 35.273 127.717 25.81" style="fill: url(#linear-gradient-17)"/>
+    </g>
+    <g id="type">
+      <path id="type_CompoundPathItem_" data-name="type &lt;CompoundPathItem&gt;" d="M194.91,35.97c16.27,0,25.279,9.1324,25.279,23.2988S211.18,82.4758,194.91,82.4758h-20.3v27.2371H163.523V35.97Zm-.205,36.7687c9.225,0,14.191-4.76,14.191-13.47s-4.966-13.5612-14.191-13.5612H174.61v27.02Z" style="fill: #fff"/>
+      <rect id="type_PathItem_" data-name="type &lt;PathItem&gt;" x="227.964" y="35.9695" width="10.356" height="73.7434" style="fill: #fff"/>
+      <path id="type_PathItem_2" data-name="type &lt;PathItem&gt;" d="M285.052,56.2662h10.356v53.4467h-9.945v-7.991c-4.042,6.107-9.636,9.213-16.784,9.213-11.6,0-18.759-6.85-18.759-18.8475V56.2434h10.367V90.6377c0,7.4542,3.734,11.1872,11.293,11.1872,7.147,0,13.472-5.3879,13.472-15.4334Z" style="fill: #fff"/>
+      <polygon id="type_PathItem_3" data-name="type &lt;PathItem&gt;" points="331.248 56.266 331.248 64.736 321.726 64.736 321.726 109.69 311.358 109.69 311.358 64.736 302.761 64.736 302.761 56.243 311.358 56.243 311.358 40.912 321.726 40.912 321.726 56.243 331.248 56.266" style="fill: #fff"/>
+      <path id="type_PathItem_4" data-name="type &lt;PathItem&gt;" d="M373.413,56.2662H383.78v53.4467h-9.933v-7.991c-4.042,6.107-9.637,9.213-16.784,9.213-11.612,0-18.759-6.85-18.759-18.8475V56.2434h10.367V90.6377c0,7.4542,3.722,11.1872,11.292,11.1872,7.147,0,13.461-5.3879,13.461-15.4334Z" style="fill: #fff"/>
+      <path id="type_PathItem_5" data-name="type &lt;PathItem&gt;" d="M391.864,92.7267H402.22c.833,7.4652,4.453,10.1482,13.153,10.1482q11.817,0,11.817-7.4543c0-4.2465-2.694-6.3126-11.417-7.8765l-5.492-1.0272c-11.292-2.0776-16.99-7.3515-16.99-15.9815,0-9.52,7.661-15.5361,20.609-15.5361,14.717,0,22.275,6.0155,22.584,17.9217H426.436c-.411-7.3515-4.567-9.84-12.559-9.84-6.634,0-10.355,2.5915-10.355,7.1463,0,4.2465,3.208,6.2212,9.944,7.5682l5.595.9247c13.153,2.4885,18.542,7.146,18.542,15.9815,0,10.3533-8.289,16.3583-22.378,16.3583Q392.926,111.06,391.864,92.7267Z" style="fill: #fff"/>
+      <path id="type_CompoundPathItem_2" data-name="type &lt;CompoundPathItem&gt;" d="M472.255,35.97c11.498,0,20.403,3.3105,26.934,9.84s9.637,15.5365,9.637,27.0317-3.22,20.5473-9.637,27.0316-15.436,9.84-26.934,9.84h-26.26V35.97Zm-.102,64.0064c16.156,0,25.061-9.84,25.061-27.1346s-8.905-27.1342-25.061-27.1342H457.024V99.9759Z" style="fill: #fff"/>
+      <path id="type_CompoundPathItem_3" data-name="type &lt;CompoundPathItem&gt;" d="M566.53,109.7129,559.281,90.558H526.169l-7.147,19.1549H507.433L536.228,35.97H548.97l29.218,73.7434ZM529.652,80.9235H555.65l-1.553-4.0411c-3.939-9.84-7.764-19.9883-11.498-30.2506-2.592,6.9405-6.325,16.9974-11.418,30.2506Z" style="fill: #fff"/>
+      <path id="type_CompoundPathItem_4" data-name="type &lt;CompoundPathItem&gt;" d="M586.934,100.7059c-6.622-7.0434-9.945-16.3693-9.945-27.8646s3.323-20.8215,9.945-27.9675,15.231-10.5592,26.112-10.5592,19.479,3.5159,26.112,10.5592S649,61.3461,649,72.8413s-3.322,20.8212-9.842,27.8646-15.334,10.673-26.112,10.673S593.465,107.8519,586.934,100.7059Zm43.935-7.0433c4.453-5.08,6.622-12.02,6.622-20.8213S635.322,57.1,630.869,51.9169s-10.47-7.66-17.823-7.66-13.358,2.5912-17.823,7.66-6.725,12.1232-6.725,20.9244,2.284,15.7415,6.725,20.8213,10.367,7.7623,17.823,7.7623S626.416,98.8452,630.869,93.6626Z" style="fill: #fff"/>
+    </g>
+  </g>
+</svg>

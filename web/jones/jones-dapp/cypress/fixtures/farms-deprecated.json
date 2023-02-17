@@ -1,0 +1,15 @@
+{
+  "deprecatedFarms": [
+    {
+      "lpToken": "0xa6efc26dAA4bb2b9bF5D23A0bc202A2BaDC2B59E",
+      "farmName": "JONES-USDC",
+      "deprecatedFarmAddress": "0x13f6A63867046107780Bc3fEBdeE90E7AfCdfd99",
+      "claimable": "20.0",
+      "userStaked": "10.0",
+      "claimableValue": 200,
+      "userStakedValue": 2000,
+      "oldDepositState": 3,
+      "tvl": 24969.55591415748
+    }
+  ]
+}

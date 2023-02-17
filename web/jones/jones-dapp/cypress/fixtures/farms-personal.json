@@ -1,0 +1,125 @@
+{
+  "farms": [
+    {
+      "farmName": "JONES",
+      "poolId": "0",
+      "deprecatedFarmAddress": "0xf1a26Cf6309a59794da29B5b2E6fABD3070d470f",
+      "claimable": "100",
+      "claimableValue": 200,
+      "userStaked": "10",
+      "userStakedValue": 20,
+      "oldDeposit": "0.0",
+      "oldClaim": "0.0",
+      "oldDepositState": 0
+    },
+    {
+      "farmName": "JONES-ETH",
+      "poolId": "1",
+      "deprecatedFarmAddress": "0x360a766F30F0Ba57d2865eFb32502FB800b14dD3",
+      "claimable": "0.0",
+      "claimableValue": 0,
+      "userStaked": "0.0",
+      "userStakedValue": 0,
+      "tokenPair": {
+        "token0": {
+          "symbol": "JONES",
+          "staked": 0
+        },
+        "token1": {
+          "symbol": "ETH",
+          "staked": 0
+        }
+      },
+      "oldDeposit": "0.0",
+      "oldClaim": "0.0",
+      "oldDepositState": 0
+    },
+    {
+      "farmName": "jETH-ETH",
+      "poolId": "2",
+      "deprecatedFarmAddress": "0xBAc58e8b57935A0B60D5Cb4cd9F6C21049595F04",
+      "claimable": "0.0",
+      "claimableValue": 0,
+      "userStaked": "0.0",
+      "userStakedValue": 0,
+      "tokenPair": {
+        "token0": {
+          "symbol": "jETH",
+          "staked": 0
+        },
+        "token1": {
+          "symbol": "ETH",
+          "staked": 0
+        }
+      },
+      "oldDeposit": "0.0",
+      "oldClaim": "0.0",
+      "oldDepositState": 0
+    },
+    {
+      "farmName": "jgOHM-gOHM",
+      "poolId": "3",
+      "deprecatedFarmAddress": "0x7eCe38dBE9D61D0d9Bf2D804A87A7d21b5937a56",
+      "claimable": "0.0",
+      "claimableValue": 0,
+      "userStaked": "0.0",
+      "userStakedValue": 0,
+      "tokenPair": {
+        "token0": {
+          "symbol": "jgOHM",
+          "staked": 0
+        },
+        "token1": {
+          "symbol": "gOHM",
+          "staked": 0
+        }
+      },
+      "oldDeposit": "0.0",
+      "oldClaim": "0.0",
+      "oldDepositState": 0
+    },
+    {
+      "farmName": "jDPX-DPX",
+      "poolId": "4",
+      "deprecatedFarmAddress": "0x5723be83199C9Ec68ED0Ac979e98381224870e7f",
+      "claimable": "0.0",
+      "claimableValue": 0,
+      "userStaked": "0.0",
+      "userStakedValue": 0,
+      "tokenPair": {
+        "token0": {
+          "symbol": "DPX",
+          "staked": 0
+        },
+        "token1": {
+          "symbol": "jDPX",
+          "staked": 0
+        }
+      },
+      "oldDeposit": "0.0",
+      "oldClaim": "0.0",
+      "oldDepositState": 0
+    },
+    {
+      "farmName": "jRDPX-RDPX",
+      "poolId": "5",
+      "claimable": "0.0",
+      "claimableValue": 0,
+      "userStaked": "0.0",
+      "userStakedValue": 0,
+      "tokenPair": {
+        "token0": {
+          "symbol": "jrDPX",
+          "staked": 0
+        },
+        "token1": {
+          "symbol": "RDPX",
+          "staked": 0
+        }
+      },
+      "oldDeposit": "0",
+      "oldClaim": "0",
+      "oldDepositState": 0
+    }
+  ]
+}

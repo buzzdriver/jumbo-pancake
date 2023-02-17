@@ -1,0 +1,40 @@
+{
+  "name": "@concave/marketplace",
+  "version": "0.0.0",
+  "description": "Concave Marketplace library",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "files": [
+    "dist/**"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "dev": "tsup src/index.ts --format esm,cjs --watch --dts",
+    "test": "tsdx test --passWithNoTests",
+    "test:watch": "tsdx test --passWithNoTests --watch"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.4",
+    "@concave/core": "*",
+    "@concave/gemswap-sdk": "*",
+    "@ethersproject/address": "^5.6.1",
+    "@ethersproject/bignumber": "^5.6.2",
+    "@ethersproject/contracts": "^5.6.2",
+    "@ethersproject/providers": "^5.6.8",
+    "@ethersproject/solidity": "^5.6.1",
+    "@ethersproject/wallet": "^5.6.2",
+    "@types/big.js": "^6.1.5",
+    "decimal.js-light": "^2.5.1",
+    "jsbi": "^4.3.0",
+    "prettier": "^2.7.1",
+    "tiny-invariant": "^1.2.0",
+    "tiny-warning": "^1.0.3",
+    "toformat": "^2.0.0"
+  },
+  "devDependencies": {
+    "tsdx": "^0.14.1"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "vaults": [
+    {
+      "vaultName": "ETH",
+      "tokenAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "jAssetAddress": "0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3",
+      "coingeckoId": "ethereum",
+      "jAssetPictureUrl": "https://gateway.pinata.cloud/ipfs/Qmc6wdeX9Syym23LzsimKBDEVZvvjPYEm9ZPtCfWdJJQN6",
+      "version": "V3",
+      "userClaimable": "10.91"
+    },
+    {
+      "vaultName": "gOHM",
+      "tokenAddress": "0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
+      "jAssetAddress": "0x5375616bB6c52A90439fF96882a986d8FCdCe421",
+      "coingeckoId": "governance-ohm",
+      "jAssetPictureUrl": "https://gateway.pinata.cloud/ipfs/QmNjbgjYkgHqCPaz5TTxhDpHEZwqkogR5RKtNSBtPBJfgY",
+      "version": "V3",
+      "userClaimable": "0.0"
+    },
+    {
+      "vaultName": "DPX",
+      "tokenAddress": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+      "jAssetAddress": "0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19",
+      "coingeckoId": "dopex",
+      "jAssetPictureUrl": "https://gateway.pinata.cloud/ipfs/QmQpWg9vwKkwUocuUFg2c4KDNDvrdPQjCXGFwgdffw51d4",
+      "version": "V3",
+      "userClaimable": "0.0"
+    },
+    {
+      "vaultName": "rDPX",
+      "tokenAddress": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+      "jAssetAddress": "0x1f6Fa7A58701b3773b08a1a16D06b656B0eCcb23",
+      "coingeckoId": "dopex-rebate-token",
+      "jAssetPictureUrl": "https://gateway.pinata.cloud/ipfs/QmYoSwEo4t4ogDXxiW6LGmbqp5mEv54PRCqxMJHoMiGcrb",
+      "version": "V3",
+      "userClaimable": "0.0"
+    }
+  ]
+}
